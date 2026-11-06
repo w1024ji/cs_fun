@@ -1,0 +1,10 @@
+﻿# 컴파일 결과물
+*.exe
+*.o
+*.out
+
+# 편집기/OS
+.vscode/
+.DS_Store
+Thumbs.db
+__pycache__/
